@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ControllerTv
+comment1.params=
+comment1.target=ControllerTv()
+comment2.params=
+comment2.target=void\ avanzarCanal()
+comment3.params=
+comment3.target=void\ bajarVolumen()
+comment4.params=
+comment4.target=void\ cambiarEntrada()
+comment5.params=
+comment5.target=void\ actualizarPantalla()
+comment6.params=
+comment6.target=void\ retrocederCanal()
+comment7.params=
+comment7.target=void\ subirVolumen()
+numComments=8
